@@ -1,2 +1,2 @@
 # multithreading
-Exploring Java multithreading (2020 august)
+Exploring Java multithreading (August 2020)
